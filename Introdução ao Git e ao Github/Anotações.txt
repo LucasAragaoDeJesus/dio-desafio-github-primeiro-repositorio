@@ -1,0 +1,6 @@
+[Link de download do GIT](https://git-scm.com/download/)
+
+É preciso rever o curso de Introdução ao Git e Github para fixar o conteúdo.
+
+
+O Git Bash é um terminal estendido para otimizar o uso do Git.
